@@ -1,7 +1,7 @@
 # PEC2-Visualización de datos
 
 #### Técnica básica: Mapa de calor (heatmap)
-<img width="738" height="525" alt="image" src="https://github.com/user-attachments/assets/bf595026-06e1-4ffe-b2c8-8c9a70d92de8" />
+<img width="738" height="525" alt="image" src="https://github.com/user-attachments/assets/615b1040-d079-4205-a99a-320318d79571" />
 
 
 #### Técnica avanzada: Gráfico radial o de araña (radar chart)
