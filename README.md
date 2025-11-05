@@ -5,7 +5,7 @@
 
 
 #### Técnica avanzada: Gráfico radial o de araña (radar chart)
-<img width="464" height="460" alt="image" src="https://github.com/user-attachments/assets/8d261d02-cc82-4b0a-9c06-41097bef43a1" />
+<img width="789" height="715" alt="image" src="https://github.com/user-attachments/assets/809214f0-67b7-4303-b150-bb05fe590a17" />
 
 
 #### Técnica específica o infrecuente: Gráfico de violín (violin plot)
